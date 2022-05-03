@@ -12,4 +12,6 @@ here
 
 ## Links
 
-here
+[Community Support](https://discord.gg/73KvNCABPc)
+
+[Documentation]()
