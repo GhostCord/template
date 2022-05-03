@@ -1,5 +1,5 @@
 const lib = {
-    name: 'lib root',
+    name: 'I am root',
 }
 
 export default lib
